@@ -16,7 +16,7 @@ public class Pyramid
             }
             for (int z=1; z<=1; z++)
             {
-                System.out.print("*\n");
+                System.out.print("#\n");
             }
         }   
     }
